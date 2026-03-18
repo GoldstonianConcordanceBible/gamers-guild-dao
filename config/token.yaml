@@ -1,0 +1,5 @@
+token:
+  name: Gamers Guild Token
+  symbol: GGUILD
+  max_supply: 1000000000
+  chain: solana_mainnet
