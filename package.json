@@ -1,0 +1,9 @@
+{
+  "name": "gamers-guild-dao",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:sepolia": "hardhat run deploy/00_deploy_token.ts --network sepolia",
+    "deploy:full:sepolia": "hardhat
