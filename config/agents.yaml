@@ -1,0 +1,9 @@
+agents:
+  scout:
+    enabled: true
+  analyst:
+    enabled: true
+  reputation:
+    enabled: true
+  treasury:
+    enabled: true
