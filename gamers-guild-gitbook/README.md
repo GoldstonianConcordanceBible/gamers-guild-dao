@@ -28,9 +28,20 @@ This GitBook explains:
 - how the token is designed with compliance awareness
 - how the roadmap unfolds over time
 
-## Institutional Context
+## 🧠 Why This Exists
 
-Gamers Guild Token is being developed as a Sub-DAO case study at SydTek University. This means the token is not merely a launch asset. It is part of a broader educational, governance, and research framework designed to demonstrate how digital communities can be organized responsibly, transparently, and intelligently.
+Gaming communities create massive value, but most of it is not owned by the community.
+
+GGUILD is an experiment to change that.
+
+## 🔗 Links
+
+- Pump.fun: https://pump.fun/coin/2vxVoqdULewzFTgEoMcDEx2wg25RcsdSwoqcXBb6pump
+- GitHub: https://github.com/GoldstonianConcordanceBible/gamers-guild-dao
+
+## 🎓 SydTek University
+
+Gamers Guild DAO serves as the live digital economy case study layer for SydTek University’s B.S. in Esports, Gaming, and AI Performance.
 
 ## Important Note
 
