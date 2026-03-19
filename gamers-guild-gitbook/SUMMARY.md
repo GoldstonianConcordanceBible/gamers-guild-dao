@@ -26,6 +26,13 @@
 * [Approved Language](05-legal/approved-language.md)
 * [Do Not Say](05-legal/do-not-say.md)
 
+## Live System
+* [System Overview](03-live-system/system-overview.md)
+* [Smart Contracts](03-live-system/contracts.md)
+* [AI Agents](03-live-system/ai-agents.md)
+* [Dashboard](03-live-system/dashboard.md)
+* [API](03-live-system/api.md)
+
 ## Roadmap
 * [Roadmap](06-roadmap/roadmap.md)
 * [KPI Scoreboard](06-roadmap/kpi-scoreboard.md)
