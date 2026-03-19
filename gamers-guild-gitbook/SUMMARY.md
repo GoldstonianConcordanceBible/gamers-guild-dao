@@ -4,6 +4,7 @@
 
 ## Start Here
 * [What is GGUILD](00-start-here/what-is-gguild.md)
+* [Why This Is Legit](00-start-here/why-this-is-legit.md)
 
 ## Core Docs
 * [Overview](01-core-docs/overview.md)
