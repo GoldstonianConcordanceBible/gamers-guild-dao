@@ -32,7 +32,7 @@ Gamers Guild DAO is a live experimental economy where:
 
 ## 🔑 Core Components
 
-- $GGUILD Token (ERC-20)
+- $GGUILD Token
 - DAO Governance System
 - AI Agent Layer
 - Reputation System
