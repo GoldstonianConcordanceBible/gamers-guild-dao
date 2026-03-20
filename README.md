@@ -1,5 +1,11 @@
 # 🎮 Gamers Guild Token (GGUILD)
 
+### Token
+
+GGUILD is live on pump.fun:
+
+https://pump.fun/coin/2vxVoqdULewzFTgEoMcDEx2wg25RcsdSwoqcXBb6pump
+
 ### A Gaming-Native DAO Built at SydTek University
 
 Gamers Guild Token (GGUILD) is a utility and governance token designed to support gaming communities, creator ecosystems, contributor rewards, and AI-supported digital coordination.
