@@ -1,67 +1,109 @@
-# 🎮 Gamers Guild DAO (GGUILD)
+# 🎮 Gamers Guild Token (GGUILD)
 
-A Sub-DAO of SydTek University designed to power the next generation of gaming economies through decentralized governance, AI agents, and tokenized participation.
+### A Gaming-Native DAO Built at SydTek University
 
----
-
-## 🌐 Institutional Affiliation
-
-This repository is officially affiliated with:
-
-**SydTek University**  
-A decentralized, AI-native academic and research institution.
-
-### Purpose:
-- Advance Web3 education through live systems
-- Develop real-world DAO infrastructures
-- Integrate AI agents into governance and analytics
-- Provide accreditation-ready academic frameworks
+Gamers Guild Token (GGUILD) is a utility and governance token designed to support gaming communities, creator ecosystems, contributor rewards, and AI-supported digital coordination.
 
 ---
 
-## 🧠 Overview
+## What This Is
 
-Gamers Guild DAO is a live experimental economy where:
+GGUILD is:
 
-- Gamers earn tokens
-- Creators are rewarded
-- Governance is decentralized
-- AI agents optimize operations
-
----
-
-## 🔑 Core Components
-
-- $GGUILD Token
-- DAO Governance System
-- AI Agent Layer
-- Reputation System
-- Treasury Management
-- Academic Integration (SydTek Curriculum)
+- a gaming ecosystem token
+- a governance-linked community system
+- a contributor reward layer
+- a SydTek University Sub-DAO case study
+- a documented digital economy experiment
 
 ---
 
-## 🏗️ Architecture
+## Why This Exists
 
-Frontend → Backend → Smart Contracts → AI Agents → Analytics Layer
+Gaming communities create real value.
 
----
+GGUILD is designed to help organize that value through:
 
-## ⚖️ Legal Disclaimer
+- contribution-based recognition
+- community participation
+- governance pathways
+- structured documentation
+- long-term ecosystem thinking
 
-This project is for educational and experimental purposes.
-
-- No expectation of profit
-- Not a security
-- No financial guarantees
-
-See `/docs/legal.md` for full framework.
+GGUILD is grounded in the principle: you eat what you kill — contribution defines reward.
 
 ---
 
-## 🚀 Getting Started
+## SydTek University
 
-```bash
-git clone https://github.com/sydtek/gamers-guild-dao
-cd gamers-guild-dao
-pip install -r requirements.txt
+Gamers Guild DAO serves as the live digital economy case study layer for SydTek University’s B.S. in Esports, Gaming, and AI Performance.
+
+This makes GGUILD both:
+
+- a real ecosystem
+- an academic case study
+- a reusable documentation asset
+
+---
+
+## Goldstonian Concordance Bible Alignment
+
+GGUILD is aligned with the broader Goldstonian Concordance Bible (GCB) ecosystem through doctrine, structured language, and continuity with Mirror → Water → Fire.
+
+This gives the project a deeper layer of coherence across:
+
+- culture
+- governance
+- contribution
+- doctrine
+- knowledge architecture
+
+---
+
+## Start Here
+
+If you are new, read these first:
+
+1. What is GGUILD  
+2. Why This Is Legit  
+3. Overview  
+4. Token Utility  
+
+---
+
+## Important
+
+GGUILD is designed as a utility-oriented, participation-focused, and governance-linked ecosystem.
+
+It is not presented as:
+
+- a guaranteed profit opportunity
+- a passive income system
+- a government-approved financial product
+
+---
+
+## Core Links
+
+- Pump.fun  
+https://pump.fun/coin/2vxVoqdULewzFTgEoMcDEx2wg25RcsdSwoqcXBb6pump
+
+- GitHub  
+https://github.com/GoldstonianConcordanceBible/gamers-guild-dao
+
+---
+
+## Final Vision
+
+GGUILD is being built to connect:
+
+- gaming
+- governance
+- AI
+- doctrine
+- education
+- knowledge infrastructure
+
+Built for gamers.  
+Structured for communities.  
+Aligned for the long term.
