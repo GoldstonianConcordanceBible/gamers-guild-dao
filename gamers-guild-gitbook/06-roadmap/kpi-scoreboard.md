@@ -2,18 +2,16 @@
 
 This scoreboard helps track real progress across the GGUILD ecosystem.
 
-## Example Categories
-
-Documentation Layer        █████████░
-Whitepaper Layer           ████████░░
+Documentation Layer        ██████████
+Whitepaper Layer           ██████████
 Legal Language Pack        █████████░
 Pump.fun Messaging         ████████░░
-DAO ↔ Degree Alignment     █████████░
-Compliance Messaging       ███████░░░
+DAO ↔ Degree Alignment     ██████████
+Compliance Messaging       ████████░░
 Gaming Integration         ██████░░░░
 AI Agent Layer             ██████░░░░
-
-## Why This Matters
+Doctrine Layer             █████████░
+Knowledge Graph Layer      █████████░
 
 A scoreboard creates operational honesty.
 
