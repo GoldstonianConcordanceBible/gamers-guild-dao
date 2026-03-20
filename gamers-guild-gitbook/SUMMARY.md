@@ -82,3 +82,10 @@
 * [Contributor Pathway](10-community/contributor-pathway.md)
 * [Discord Structure](10-community/discord-structure.md)
 * [From Visitor to Core Member](10-community/from-visitor-to-core-member.md)
+
+## Knowledge Graph
+* [Knowledge Graph Overview](13-knowledge-graph/knowledge-graph-overview.md)
+* [Core Entities](13-knowledge-graph/core-entities.md)
+* [Core Relationships](13-knowledge-graph/core-relationships.md)
+* [Repository and Documentation Links](13-knowledge-graph/repository-and-documentation-links.md)
+* [LLM and Agent Alignment](13-knowledge-graph/llm-and-agent-alignment.md)
