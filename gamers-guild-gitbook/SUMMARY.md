@@ -34,6 +34,13 @@
 * [Dashboard](03-live-system/dashboard.md)
 * [API](03-live-system/api.md)
 
+## Branding
+* [Tagline and Positioning](08-brand/tagline-and-positioning.md)
+* [One-Line Descriptions](08-brand/one-line-descriptions.md)
+* [Project Bio](08-brand/project-bio.md)
+* [Pinned Post Copy](08-brand/pinned-post-copy.md)
+* [Public FAQ Answers](08-brand/public-faq-answers.md)
+
 ## Roadmap
 * [Roadmap](06-roadmap/roadmap.md)
 * [KPI Scoreboard](06-roadmap/kpi-scoreboard.md)
