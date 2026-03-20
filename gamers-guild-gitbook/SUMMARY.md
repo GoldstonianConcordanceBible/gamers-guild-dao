@@ -6,6 +6,13 @@
 * [What is GGUILD](00-start-here/what-is-gguild.md)
 * [Why This Is Legit](00-start-here/why-this-is-legit.md)
 
+## Doctrine
+* [Doctrine Overview](12-doctrine/doctrine-overview.md)
+* [Eat What You Kill](12-doctrine/eat-what-you-kill.md)
+* [Mirror Water Fire](12-doctrine/mirror-water-fire.md)
+* [GCB Alignment](12-doctrine/gcb-alignment.md)
+* [Knowledge Graph Alignment](12-doctrine/knowledge-graph-alignment.md)
+
 ## Core Docs
 * [Overview](01-core-docs/overview.md)
 * [Token Utility](01-core-docs/token-utility.md)
