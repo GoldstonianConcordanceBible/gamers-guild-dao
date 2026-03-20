@@ -16,6 +16,10 @@
 * [Executive Summary](02-whitepaper/01-executive-summary.md)
 * [Problem](02-whitepaper/02-problem-statement.md)
 * [Vision](02-whitepaper/03-vision-and-mission.md)
+* [Ecosystem Architecture](02-whitepaper/04-ecosystem-architecture.md)
+* [Token Utility](02-whitepaper/05-token-utility.md)
+* [Tokenomics](02-whitepaper/06-tokenomics.md)
+* [Governance Model](02-whitepaper/07-governance-model.md)
 
 ## University
 * [GGUILD and SydTek University](04-university/gguild-and-sydtek.md)
