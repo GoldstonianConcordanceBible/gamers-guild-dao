@@ -28,6 +28,13 @@
 * [Risks and Disclosures](02-whitepaper/13-risks-and-disclosures.md)
 * [Closing Statement](02-whitepaper/14-closing-statement.md)
 
+## Live System
+* [System Overview](03-live-system/system-overview.md)
+* [Smart Contracts](03-live-system/contracts.md)
+* [AI Agents](03-live-system/ai-agents.md)
+* [Dashboard](03-live-system/dashboard.md)
+* [API](03-live-system/api.md)
+
 ## University
 * [GGUILD and SydTek University](04-university/gguild-and-sydtek.md)
 * [Esports Program Integration](04-university/esports-program-integration.md)
@@ -38,14 +45,17 @@
 * [Approved Language](05-legal/approved-language.md)
 * [Do Not Say](05-legal/do-not-say.md)
 
-## Live System
-* [System Overview](03-live-system/system-overview.md)
-* [Smart Contracts](03-live-system/contracts.md)
-* [AI Agents](03-live-system/ai-agents.md)
-* [Dashboard](03-live-system/dashboard.md)
-* [API](03-live-system/api.md)
+## Roadmap
+* [Roadmap](06-roadmap/roadmap.md)
+* [KPI Scoreboard](06-roadmap/kpi-scoreboard.md)
 
-## Branding
+## Launch
+* [Launch Strategy](07-launch/launch-strategy.md)
+* [First 100 Holders Plan](07-launch/first-100-holders.md)
+* [Community Growth Plan](07-launch/community-growth.md)
+* [Content Strategy](07-launch/content-strategy.md)
+
+## Brand
 * [Tagline and Positioning](08-brand/tagline-and-positioning.md)
 * [One-Line Descriptions](08-brand/one-line-descriptions.md)
 * [Project Bio](08-brand/project-bio.md)
@@ -65,7 +75,3 @@
 * [Contributor Pathway](10-community/contributor-pathway.md)
 * [Discord Structure](10-community/discord-structure.md)
 * [From Visitor to Core Member](10-community/from-visitor-to-core-member.md)
-
-## Roadmap
-* [Roadmap](06-roadmap/roadmap.md)
-* [KPI Scoreboard](06-roadmap/kpi-scoreboard.md)
