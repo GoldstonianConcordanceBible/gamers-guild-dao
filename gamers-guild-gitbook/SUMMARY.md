@@ -20,6 +20,10 @@
 * [Token Utility](02-whitepaper/05-token-utility.md)
 * [Tokenomics](02-whitepaper/06-tokenomics.md)
 * [Governance Model](02-whitepaper/07-governance-model.md)
+* [Gaming Industry Use Cases](02-whitepaper/08-gaming-industry-use-cases.md)
+* [AI and Reputation](02-whitepaper/09-ai-and-reputation.md)
+* [Compliance-Aware Design](02-whitepaper/10-compliance-aware-design.md)
+* [SydTek Case Study Integration](02-whitepaper/11-sydtek-case-study-integration.md)
 
 ## University
 * [GGUILD and SydTek University](04-university/gguild-and-sydtek.md)
