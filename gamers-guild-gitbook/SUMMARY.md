@@ -41,6 +41,13 @@
 * [Pinned Post Copy](08-brand/pinned-post-copy.md)
 * [Public FAQ Answers](08-brand/public-faq-answers.md)
 
+## Operations
+* [Operating Model](09-operations/operating-model.md)
+* [Contributor Roles](09-operations/contributor-roles.md)
+* [Weekly Rhythm](09-operations/weekly-rhythm.md)
+* [Governance Cadence](09-operations/governance-cadence.md)
+* [Reporting and Updates](09-operations/reporting-and-updates.md)
+
 ## Roadmap
 * [Roadmap](06-roadmap/roadmap.md)
 * [KPI Scoreboard](06-roadmap/kpi-scoreboard.md)
