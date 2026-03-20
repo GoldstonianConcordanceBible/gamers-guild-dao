@@ -26,6 +26,8 @@ But most of that value is not owned by the community.
 
 GGUILD is an experiment to change that by creating:
 
+GGUILD is grounded in the principle: you eat what you kill — contribution defines reward.
+
 - community-driven rewards  
 - transparent governance  
 - contribution-based reputation  
