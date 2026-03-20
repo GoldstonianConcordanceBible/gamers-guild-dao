@@ -24,6 +24,9 @@
 * [AI and Reputation](02-whitepaper/09-ai-and-reputation.md)
 * [Compliance-Aware Design](02-whitepaper/10-compliance-aware-design.md)
 * [SydTek Case Study Integration](02-whitepaper/11-sydtek-case-study-integration.md)
+* [Roadmap](02-whitepaper/12-roadmap.md)
+* [Risks and Disclosures](02-whitepaper/13-risks-and-disclosures.md)
+* [Closing Statement](02-whitepaper/14-closing-statement.md)
 
 ## University
 * [GGUILD and SydTek University](04-university/gguild-and-sydtek.md)
